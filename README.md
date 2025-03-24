@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ogbu Ezekiel - Full stack Engineer | AI/LLM 
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I was a Backend Engineer | Techincal Lead at [Darey.io](darey.io) 
+- 🔭 I was a Backend Engineer | Technical Lead at [Darey.io](darey.io) 
 - 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on innovative projects and products
 - 🤔 Ask me about anything, I am happy to help
