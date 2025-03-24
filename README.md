@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ogbu Ezekiel
+## Hi there 👋 I'm Ogbu Ezekiel - Full stack Engineer | AI/LLM 
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I was a Backend Engineer | Techincal Lead at [Darey.io](darey.io) 
