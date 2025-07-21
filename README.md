@@ -4,10 +4,11 @@ ________________________________________________________________________________
 - 🔭 I was a Backend Engineer | Technical Lead at [Darey.io](darey.io) 
 - 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on innovative projects and products
-- 🤔 Ask me about anything, I am happy to help
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ogbu-ezekiel-4) | [Twitter](https://x.com/Zicozydasliva)
 - 😄 Pronouns: He/Him
+- My portfolio: [LINK](https://ogbuezekielportfolio.netlify.app/)
 - 👯 I’m looking to collaborate on innovative projects and products
+- 🤔 Ask me about anything, I am happy to help
 
 
   
