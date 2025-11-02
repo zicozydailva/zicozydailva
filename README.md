@@ -2,7 +2,7 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I was a Backend Engineer | Technical Lead at [Darey.io](darey.io) 
-- 🌱 I’m currently learning GOLANG
+- 🌱 I’m currently learning/solidifying my stacks on GOLANG, Java, C and DevOps
 - 👯 I’m looking to collaborate on innovative projects and products
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ogbu-ezekiel-4) | [Twitter](https://x.com/Zicozydasliva)
 - 😄 Pronouns: He/Him
