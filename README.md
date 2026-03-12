@@ -2,7 +2,7 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I was a Backend Engineer | Technical Lead at [Darey.io](darey.io) 
-- 🌱 Proficient with programming languages: JavaScript, Python, GOLANG, Java and C
+- 🌱 Proficient with programming languages: JavaScript, Python, Go, Java and C
 - 👯 I’m looking to collaborate on innovative projects and products
 - 📫 Connect with me on [LinkedIn](www.linkedin.com/in/ezekiel-ogbu-xx/) | [Twitter](https://x.com/Zicozydasliva)
 - 😄 Pronouns: He/Him
