@@ -2,13 +2,13 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I was a Backend Engineer | Technical Lead at [Darey.io](darey.io) 
-- 🌱 I’m currently learning/solidifying my stacks on GOLANG, Java, C and DevOps
+- 🌱 Proficient with programming languages: JavaScript, Python, GOLANG, Java and C
 - 👯 I’m looking to collaborate on innovative projects and products
 - 📫 Connect with me on [LinkedIn](www.linkedin.com/in/ezekiel-ogbu-xx/) | [Twitter](https://x.com/Zicozydasliva)
 - 😄 Pronouns: He/Him
 - My portfolio: [LINK](https://ogbuezekielportfolio.netlify.app/)
 - 👯 I’m looking to collaborate on innovative projects and products
-- 🤔 Ask me about anything, I am happy to help
+- 🤔 Ask me about anything, I am happy to help/connect
 
 
   
